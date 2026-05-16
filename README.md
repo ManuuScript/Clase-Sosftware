@@ -34,4 +34,4 @@ El proyecto implementa una arquitectura Cliente-Servidor.
 - Visual Studio
 
 ## Autor
-ManuuScript
+Grupo D
